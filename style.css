@@ -15,6 +15,8 @@ nav {background-color: #8379CD; height: 200px; text-align: right}
 
 body {flex: 1 0 auto; display: flex; flex-direction: column; height: 100vh;}
 
+/* .picture-show {width: 100px; height: ;} */
+
 #contact-us {padding-top: 50px; padding-bottom: 50px; padding-left: 25px; padding-right: 25px; margin-bottom: 50px;}
 
 #contact-crafts, #contact-arts {text-align: center; font-family: 'Cinzel', serif; color: #8379CD;}
